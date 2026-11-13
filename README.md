@@ -1,5 +1,7 @@
 # Numerical Solution of Convection-Dominated Transport Problems (GLS-FEM)
 
+This project was initially made to accompany a mini-lecture.
+
 This repository contains the theoretical analysis and MATLAB finite element implementation for solving stationary convection-diffusion partial differential equations using the **Galerkin Least Squares (GLS)** method, based on Larson & Bengzon (Sections 10.1.6–10.1.8).
 
 ## Mathematical Overview
